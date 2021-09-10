@@ -1,7 +1,6 @@
 
 ![Logo](https://res.cloudinary.com/practicaldev/image/fetch/s--_pyWGSyD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/w9u60357jk4ozdho7urq.jpg)
 
-    
 # Isgalamido Adventures: A Log Parser Challenge
 
 This project is about a log parser, capable of reading a log file, grouping the data of each game, collecting their respective information.
@@ -39,11 +38,10 @@ This information is based on the Quake 3 Arena server. This server records all g
 ### ❎  Task 5
   
 ## Tech Stack
-**Server:** JavasScript, Node.
+
+**Server:** JavaScript, Node.
 
 **Test:** Chai, Mocha, Sinon.
-
-
   
 ## Run Locally
 
@@ -80,7 +78,6 @@ To run tests, run the following command
   npm run test
 ```
 
-  
 ## Used By
 
 This project is a challenge implemented during the mentoring program of Codeminer42.
